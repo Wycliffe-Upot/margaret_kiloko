@@ -30,7 +30,7 @@ body
 .container .left_side 
 {
     position: relative;
-    background: #6A0DAD;
+    background:  #6A5ACD;
     padding: 40px;
 }
 .profileText
@@ -177,6 +177,7 @@ p
     display: flex;
     flex-direction: row;
     margin: 20px 0;
+    
 }
 .about .box .year_company
 {
@@ -276,5 +277,7 @@ p
     {
         grid-template-columns: repeat(1,1fr);
     }
+
+    
 
 }
